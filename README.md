@@ -163,7 +163,7 @@ LinkedIn:
 https://www.linkedin.com/in/ananya-das-6570392a0
 
 GitHub:
-Add your GitHub profile link here after publishing your repositories.
+https://github.com/2007ananyadas-tech/Cognetix_PersonalPortfolio1
 
 ---
 
